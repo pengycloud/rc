@@ -10,7 +10,7 @@ gcc decrypt.c -o decrypt
 ```
 ## Usage
 To encrypt file.txt:<br>
-`./encrypt`
+`./encrypt`\
 To decrypt file.txt:<br>
 `./decrypt`
 ## Showcase
