@@ -5,15 +5,18 @@ After that, the file can be returned by running it again with the filename and t
 ```
 git clone https://github.com/pengycloud/malrc4.git
 cd malrc4
-gcc rc4.c -o rc4
+gcc encrypt.c -o encrypt
+gcc decrypt.c -o decrypt
 ```
 ## Usage
-`./rc4 <file> <key>`
-Note: 
-## Example
+To encrypt file.txt:<br>
+`./encrypt`
+To decrypt file.txt:<br>
+`./decrypt`
+## Showcase
 Compiling it.\
 ![](https://github.com/pengycloud/malrc4/blob/main/screenshots/gcc.png)<br><br>
-Test for encryption and decryption.<br>
+Test for encryption and decryption.\
 ![](https://github.com/pengycloud/malrc4/blob/main/screenshots/test.png)
 ## ⚠️Disclaimer
 ### This is for Educational purposes only!
