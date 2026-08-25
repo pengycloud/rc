@@ -12,8 +12,8 @@ gcc rc4.c -o rc4
 Note: 
 ## Example
 Compiling it.\
-![](https://github.com/pengycloud/rc/blob/main/screenshots/Screenshot_2026-08-25_03-49-24.png)<br><br>
+![](https://github.com/pengycloud/malrc4/blob/main/screenshots/gcc.png)<br><br>
 Test for encryption and decryption.<br>
-![](https://github.com/pengycloud/rc/blob/main/screenshots/Screenshot_2026-08-25_03-52-30.png)
+![](https://github.com/pengycloud/malrc4/blob/main/screenshots/test.png)
 ## ⚠️Disclaimer
 ### This is for Educational purposes only!
